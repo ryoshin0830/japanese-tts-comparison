@@ -1,0 +1,698 @@
+{
+  "labeled": {
+    "video": "video/japanese-tts-labeled.mp4",
+    "exchange_rate": {
+      "base_currency": "USD",
+      "quote_currency": "JPY",
+      "jpy_per_usd": 156.96,
+      "quoted_at": "2026-10-22T19:35:00+09:00",
+      "source_name": "三井住友銀行 リアルタイム為替レート",
+      "source_url": "https://www2.smbc.co.jp/ex/ExchangeServlet?ScreenID=real",
+      "rate_type": "TTS (円貨→外貨)",
+      "note": "動画上の参考円換算。カード請求時の実際の換算額ではない。"
+    },
+    "chapters": [
+      {
+        "start_seconds": 10.0,
+        "start": "00:00:10",
+        "sample": "01",
+        "title": "Gemini 3.8 Flash TTS",
+        "slug": "gemini38",
+        "duration_seconds": 57.44,
+        "generation_metrics": {
+          "cost_usd": 0.0123835,
+          "estimated_cost_jpy": 1.94371416,
+          "elapsed_seconds": 17.399,
+          "display": "TTS実費  $0.0123835  ≈ ¥1.94     |     処理時間  17.40 秒"
+        }
+      },
+      {
+        "start_seconds": 67.44,
+        "start": "00:01:07",
+        "sample": "02",
+        "title": "Eleven v4",
+        "slug": "eleven4",
+        "duration_seconds": 54.0,
+        "generation_metrics": {
+          "cost_usd": 0.02096,
+          "estimated_cost_jpy": 3.2898816,
+          "elapsed_seconds": 12.12,
+          "display": "TTS実費  $0.0209600  ≈ ¥3.29     |     処理時間  12.12 秒"
+        }
+      },
+      {
+        "start_seconds": 121.44,
+        "start": "00:02:01",
+        "sample": "03",
+        "title": "Eleven v4 Turbo",
+        "slug": "eleven4turbo",
+        "duration_seconds": 53.6,
+        "generation_metrics": {
+          "cost_usd": 0.01048,
+          "estimated_cost_jpy": 1.6449408,
+          "elapsed_seconds": 5.348,
+          "display": "TTS実費  $0.0104800  ≈ ¥1.64     |     処理時間  5.35 秒"
+        }
+      },
+      {
+        "start_seconds": 175.04,
+        "start": "00:02:55",
+        "sample": "04",
+        "title": "Gemini 3.8 Flash-Lite TTS",
+        "slug": "gemini38lite",
+        "duration_seconds": 53.04,
+        "generation_metrics": {
+          "cost_usd": 0.007625,
+          "estimated_cost_jpy": 1.19682,
+          "elapsed_seconds": 10.754,
+          "display": "TTS実費  $0.0076250  ≈ ¥1.20     |     処理時間  10.75 秒"
+        }
+      },
+      {
+        "start_seconds": 228.08,
+        "start": "00:03:48",
+        "sample": "05",
+        "title": "Fish Audio Drama 3",
+        "slug": "drama3",
+        "duration_seconds": 57.579,
+        "generation_metrics": {
+          "cost_usd": 0.00144,
+          "estimated_cost_jpy": 0.2260224,
+          "elapsed_seconds": 5.835,
+          "display": "TTS実費  $0.0014400  ≈ ¥0.23     |     処理時間  5.83 秒"
+        }
+      },
+      {
+        "start_seconds": 285.659,
+        "start": "00:04:45",
+        "sample": "06",
+        "title": "Fish Audio S2.1 Pro",
+        "slug": "fish21",
+        "duration_seconds": 51.832,
+        "generation_metrics": {
+          "cost_usd": 0.0108,
+          "estimated_cost_jpy": 1.695168,
+          "elapsed_seconds": 17.36,
+          "display": "TTS実費  $0.0108000  ≈ ¥1.70     |     処理時間  17.36 秒"
+        }
+      },
+      {
+        "start_seconds": 337.491,
+        "start": "00:05:37",
+        "sample": "07",
+        "title": "Fish Audio S2 Pro",
+        "slug": "fish2",
+        "duration_seconds": 50.5,
+        "generation_metrics": {
+          "cost_usd": 0.0108,
+          "estimated_cost_jpy": 1.695168,
+          "elapsed_seconds": 16.508,
+          "display": "TTS実費  $0.0108000  ≈ ¥1.70     |     処理時間  16.51 秒"
+        }
+      },
+      {
+        "start_seconds": 387.99,
+        "start": "00:06:27",
+        "sample": "08",
+        "title": "Qwen-Audio 3.0 TTS Plus",
+        "slug": "qwenplus",
+        "duration_seconds": 52.216,
+        "generation_metrics": {
+          "cost_usd": 0.00754,
+          "estimated_cost_jpy": 1.1834784,
+          "elapsed_seconds": 11.238,
+          "display": "TTS実費  $0.0075400  ≈ ¥1.18     |     処理時間  11.24 秒"
+        }
+      },
+      {
+        "start_seconds": 440.206,
+        "start": "00:07:20",
+        "sample": "09",
+        "title": "Qwen-Audio 3.0 TTS Flash",
+        "slug": "qwenflash",
+        "duration_seconds": 60.136,
+        "generation_metrics": {
+          "cost_usd": 0.005655,
+          "estimated_cost_jpy": 0.8876088,
+          "elapsed_seconds": 7.685,
+          "display": "TTS実費  $0.0056550  ≈ ¥0.89     |     処理時間  7.68 秒"
+        }
+      },
+      {
+        "start_seconds": 500.342,
+        "start": "00:08:20",
+        "sample": "10",
+        "title": "Eleven v3",
+        "slug": "eleven3",
+        "duration_seconds": 55.04,
+        "generation_metrics": {
+          "cost_usd": 0.02096,
+          "estimated_cost_jpy": 3.2898816,
+          "elapsed_seconds": 17.231,
+          "display": "TTS実費  $0.0209600  ≈ ¥3.29     |     処理時間  17.23 秒"
+        }
+      },
+      {
+        "start_seconds": 555.382,
+        "start": "00:09:15",
+        "sample": "11",
+        "title": "Gemini 3.1 Flash TTS Preview",
+        "slug": "gemini31",
+        "duration_seconds": 51.8,
+        "generation_metrics": {
+          "cost_usd": 0.051564,
+          "estimated_cost_jpy": 8.09348544,
+          "elapsed_seconds": 21.192,
+          "display": "TTS実費  $0.0515640  ≈ ¥8.09     |     処理時間  21.19 秒"
+        }
+      }
+    ],
+    "probe": {
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+          "profile": "High",
+          "codec_type": "video",
+          "codec_tag_string": "avc1",
+          "codec_tag": "0x31637661",
+          "mime_codec_string": "avc1.640028",
+          "width": 1920,
+          "height": 1080,
+          "coded_width": 1920,
+          "coded_height": 1080,
+          "has_b_frames": 2,
+          "pix_fmt": "yuv420p",
+          "level": 40,
+          "chroma_location": "left",
+          "field_order": "progressive",
+          "is_avc": "true",
+          "nal_length_size": "4",
+          "id": "0x1",
+          "r_frame_rate": "24/1",
+          "avg_frame_rate": "182009856/7584281",
+          "time_base": "1/12288",
+          "start_pts": 246,
+          "start_time": "0.020020",
+          "duration_ts": 7584281,
+          "duration": "617.210368",
+          "bit_rate": "104856",
+          "bits_per_raw_sample": "8",
+          "nb_frames": "14812",
+          "extradata_size": 45,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          },
+          "tags": {
+            "language": "und",
+            "handler_name": "VideoHandler",
+            "encoder": "Lavc62.28.100 libx264"
+          }
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_long_name": "AAC (Advanced Audio Coding)",
+          "profile": "LC",
+          "codec_type": "audio",
+          "codec_tag_string": "mp4a",
+          "codec_tag": "0x6134706d",
+          "mime_codec_string": "mp4a.40.2",
+          "sample_fmt": "fltp",
+          "sample_rate": "48000",
+          "channels": 1,
+          "channel_layout": "mono",
+          "bits_per_sample": 0,
+          "initial_padding": 0,
+          "id": "0x2",
+          "r_frame_rate": "0/0",
+          "avg_frame_rate": "0/0",
+          "time_base": "1/48000",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 29627120,
+          "duration": "617.231667",
+          "bit_rate": "172026",
+          "nb_frames": "28950",
+          "extradata_size": 5,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          },
+          "tags": {
+            "language": "und",
+            "handler_name": "SoundHandler"
+          }
+        },
+        {
+          "index": 2,
+          "codec_name": "bin_data",
+          "codec_long_name": "binary data",
+          "codec_type": "data",
+          "codec_tag_string": "text",
+          "codec_tag": "0x74786574",
+          "id": "0x3",
+          "r_frame_rate": "0/0",
+          "avg_frame_rate": "0/0",
+          "time_base": "1/1000",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 617231,
+          "duration": "617.231000",
+          "bit_rate": "5",
+          "nb_frames": "13",
+          "extradata_size": 63,
+          "disposition": {
+            "default": 0,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          },
+          "tags": {
+            "language": "eng",
+            "handler_name": "SubtitleHandler"
+          }
+        }
+      ],
+      "format": {
+        "nb_streams": 3,
+        "nb_programs": 0,
+        "nb_stream_groups": 0,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "format_long_name": "QuickTime / MOV",
+        "start_time": "0.000000",
+        "duration": "617.231667",
+        "size": "21794353",
+        "bit_rate": "282478",
+        "probe_score": 100,
+        "tags": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2avc1mp41",
+          "title": "Japanese TTS Comparison labeled",
+          "encoder": "Lavf62.12.100",
+          "comment": "AI-generated speech. Same script. Loudness normalized. 2026-10-22."
+        }
+      }
+    }
+  },
+  "blind": {
+    "video": "video/japanese-tts-blind.mp4",
+    "exchange_rate": {
+      "base_currency": "USD",
+      "quote_currency": "JPY",
+      "jpy_per_usd": 156.96,
+      "quoted_at": "2026-10-22T19:35:00+09:00",
+      "source_name": "三井住友銀行 リアルタイム為替レート",
+      "source_url": "https://www2.smbc.co.jp/ex/ExchangeServlet?ScreenID=real",
+      "rate_type": "TTS (円貨→外貨)",
+      "note": "動画上の参考円換算。カード請求時の実際の換算額ではない。"
+    },
+    "chapters": [
+      {
+        "start_seconds": 10.0,
+        "start": "00:00:10",
+        "sample": "A",
+        "title": "SAMPLE A",
+        "slug": "gemini38lite",
+        "duration_seconds": 53.04,
+        "generation_metrics": {
+          "cost_usd": 0.007625,
+          "estimated_cost_jpy": 1.19682,
+          "elapsed_seconds": 10.754,
+          "display": "TTS実費  $0.0076250  ≈ ¥1.20     |     処理時間  10.75 秒"
+        }
+      },
+      {
+        "start_seconds": 63.04,
+        "start": "00:01:03",
+        "sample": "B",
+        "title": "SAMPLE B",
+        "slug": "qwenplus",
+        "duration_seconds": 52.216,
+        "generation_metrics": {
+          "cost_usd": 0.00754,
+          "estimated_cost_jpy": 1.1834784,
+          "elapsed_seconds": 11.238,
+          "display": "TTS実費  $0.0075400  ≈ ¥1.18     |     処理時間  11.24 秒"
+        }
+      },
+      {
+        "start_seconds": 115.256,
+        "start": "00:01:55",
+        "sample": "C",
+        "title": "SAMPLE C",
+        "slug": "fish2",
+        "duration_seconds": 50.5,
+        "generation_metrics": {
+          "cost_usd": 0.0108,
+          "estimated_cost_jpy": 1.695168,
+          "elapsed_seconds": 16.508,
+          "display": "TTS実費  $0.0108000  ≈ ¥1.70     |     処理時間  16.51 秒"
+        }
+      },
+      {
+        "start_seconds": 165.756,
+        "start": "00:02:45",
+        "sample": "D",
+        "title": "SAMPLE D",
+        "slug": "qwenflash",
+        "duration_seconds": 60.136,
+        "generation_metrics": {
+          "cost_usd": 0.005655,
+          "estimated_cost_jpy": 0.8876088,
+          "elapsed_seconds": 7.685,
+          "display": "TTS実費  $0.0056550  ≈ ¥0.89     |     処理時間  7.68 秒"
+        }
+      },
+      {
+        "start_seconds": 225.892,
+        "start": "00:03:45",
+        "sample": "E",
+        "title": "SAMPLE E",
+        "slug": "eleven3",
+        "duration_seconds": 55.04,
+        "generation_metrics": {
+          "cost_usd": 0.02096,
+          "estimated_cost_jpy": 3.2898816,
+          "elapsed_seconds": 17.231,
+          "display": "TTS実費  $0.0209600  ≈ ¥3.29     |     処理時間  17.23 秒"
+        }
+      },
+      {
+        "start_seconds": 280.932,
+        "start": "00:04:40",
+        "sample": "F",
+        "title": "SAMPLE F",
+        "slug": "eleven4",
+        "duration_seconds": 54.0,
+        "generation_metrics": {
+          "cost_usd": 0.02096,
+          "estimated_cost_jpy": 3.2898816,
+          "elapsed_seconds": 12.12,
+          "display": "TTS実費  $0.0209600  ≈ ¥3.29     |     処理時間  12.12 秒"
+        }
+      },
+      {
+        "start_seconds": 334.932,
+        "start": "00:05:34",
+        "sample": "G",
+        "title": "SAMPLE G",
+        "slug": "gemini38",
+        "duration_seconds": 57.44,
+        "generation_metrics": {
+          "cost_usd": 0.0123835,
+          "estimated_cost_jpy": 1.94371416,
+          "elapsed_seconds": 17.399,
+          "display": "TTS実費  $0.0123835  ≈ ¥1.94     |     処理時間  17.40 秒"
+        }
+      },
+      {
+        "start_seconds": 392.372,
+        "start": "00:06:32",
+        "sample": "H",
+        "title": "SAMPLE H",
+        "slug": "eleven4turbo",
+        "duration_seconds": 53.6,
+        "generation_metrics": {
+          "cost_usd": 0.01048,
+          "estimated_cost_jpy": 1.6449408,
+          "elapsed_seconds": 5.348,
+          "display": "TTS実費  $0.0104800  ≈ ¥1.64     |     処理時間  5.35 秒"
+        }
+      },
+      {
+        "start_seconds": 445.972,
+        "start": "00:07:25",
+        "sample": "I",
+        "title": "SAMPLE I",
+        "slug": "drama3",
+        "duration_seconds": 57.579,
+        "generation_metrics": {
+          "cost_usd": 0.00144,
+          "estimated_cost_jpy": 0.2260224,
+          "elapsed_seconds": 5.835,
+          "display": "TTS実費  $0.0014400  ≈ ¥0.23     |     処理時間  5.83 秒"
+        }
+      },
+      {
+        "start_seconds": 503.55,
+        "start": "00:08:23",
+        "sample": "J",
+        "title": "SAMPLE J",
+        "slug": "fish21",
+        "duration_seconds": 51.832,
+        "generation_metrics": {
+          "cost_usd": 0.0108,
+          "estimated_cost_jpy": 1.695168,
+          "elapsed_seconds": 17.36,
+          "display": "TTS実費  $0.0108000  ≈ ¥1.70     |     処理時間  17.36 秒"
+        }
+      },
+      {
+        "start_seconds": 555.382,
+        "start": "00:09:15",
+        "sample": "K",
+        "title": "SAMPLE K",
+        "slug": "gemini31",
+        "duration_seconds": 51.8,
+        "generation_metrics": {
+          "cost_usd": 0.051564,
+          "estimated_cost_jpy": 8.09348544,
+          "elapsed_seconds": 21.192,
+          "display": "TTS実費  $0.0515640  ≈ ¥8.09     |     処理時間  21.19 秒"
+        }
+      }
+    ],
+    "probe": {
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+          "profile": "High",
+          "codec_type": "video",
+          "codec_tag_string": "avc1",
+          "codec_tag": "0x31637661",
+          "mime_codec_string": "avc1.640028",
+          "width": 1920,
+          "height": 1080,
+          "coded_width": 1920,
+          "coded_height": 1080,
+          "has_b_frames": 2,
+          "pix_fmt": "yuv420p",
+          "level": 40,
+          "chroma_location": "left",
+          "field_order": "progressive",
+          "is_avc": "true",
+          "nal_length_size": "4",
+          "id": "0x1",
+          "r_frame_rate": "24/1",
+          "avg_frame_rate": "182009856/7584281",
+          "time_base": "1/12288",
+          "start_pts": 246,
+          "start_time": "0.020020",
+          "duration_ts": 7584281,
+          "duration": "617.210368",
+          "bit_rate": "104645",
+          "bits_per_raw_sample": "8",
+          "nb_frames": "14812",
+          "extradata_size": 45,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          },
+          "tags": {
+            "language": "und",
+            "handler_name": "VideoHandler",
+            "encoder": "Lavc62.28.100 libx264"
+          }
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_long_name": "AAC (Advanced Audio Coding)",
+          "profile": "LC",
+          "codec_type": "audio",
+          "codec_tag_string": "mp4a",
+          "codec_tag": "0x6134706d",
+          "mime_codec_string": "mp4a.40.2",
+          "sample_fmt": "fltp",
+          "sample_rate": "48000",
+          "channels": 1,
+          "channel_layout": "mono",
+          "bits_per_sample": 0,
+          "initial_padding": 0,
+          "id": "0x2",
+          "r_frame_rate": "0/0",
+          "avg_frame_rate": "0/0",
+          "time_base": "1/48000",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 29627120,
+          "duration": "617.231667",
+          "bit_rate": "172026",
+          "nb_frames": "28950",
+          "extradata_size": 5,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          },
+          "tags": {
+            "language": "und",
+            "handler_name": "SoundHandler"
+          }
+        },
+        {
+          "index": 2,
+          "codec_name": "bin_data",
+          "codec_long_name": "binary data",
+          "codec_type": "data",
+          "codec_tag_string": "text",
+          "codec_tag": "0x74786574",
+          "id": "0x3",
+          "r_frame_rate": "0/0",
+          "avg_frame_rate": "0/0",
+          "time_base": "1/1000",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 617231,
+          "duration": "617.231000",
+          "bit_rate": "3",
+          "nb_frames": "13",
+          "extradata_size": 63,
+          "disposition": {
+            "default": 0,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          },
+          "tags": {
+            "language": "eng",
+            "handler_name": "SubtitleHandler"
+          }
+        }
+      ],
+      "format": {
+        "nb_streams": 3,
+        "nb_programs": 0,
+        "nb_stream_groups": 0,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "format_long_name": "QuickTime / MOV",
+        "start_time": "0.000000",
+        "duration": "617.231667",
+        "size": "21777810",
+        "bit_rate": "282264",
+        "probe_score": 100,
+        "tags": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2avc1mp41",
+          "title": "Japanese TTS Comparison blind",
+          "encoder": "Lavf62.12.100",
+          "comment": "AI-generated speech. Same script. Loudness normalized. 2026-10-22."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "sample": "A",
+    "model": "google/gemini-3.8-flash-lite-tts",
+    "name": "Gemini 3.8 Flash-Lite TTS",
+    "voice": "Kore",
+    "slug": "gemini38lite"
+  },
+  {
+    "sample": "B",
+    "model": "qwen/qwen-audio-3.0-tts-plus",
+    "name": "Qwen-Audio 3.0 TTS Plus",
+    "voice": "longanlingxin",
+    "slug": "qwenplus"
+  },
+  {
+    "sample": "C",
+    "model": "fish-audio/s2-pro",
+    "name": "Fish Audio S2 Pro",
+    "voice": null,
+    "slug": "fish2"
+  },
+  {
+    "sample": "D",
+    "model": "qwen/qwen-audio-3.0-tts-flash",
+    "name": "Qwen-Audio 3.0 TTS Flash",
+    "voice": "loongjohn",
+    "slug": "qwenflash"
+  },
+  {
+    "sample": "E",
+    "model": "elevenlabs/eleven-v3",
+    "name": "Eleven v3",
+    "voice": "sarah",
+    "slug": "eleven3"
+  },
+  {
+    "sample": "F",
+    "model": "elevenlabs/eleven-v4",
+    "name": "Eleven v4",
+    "voice": "sarah",
+    "slug": "eleven4"
+  },
+  {
+    "sample": "G",
+    "model": "google/gemini-3.8-flash-tts",
+    "name": "Gemini 3.8 Flash TTS",
+    "voice": "Kore",
+    "slug": "gemini38"
+  },
+  {
+    "sample": "H",
+    "model": "elevenlabs/eleven-v4-turbo",
+    "name": "Eleven v4 Turbo",
+    "voice": "sarah",
+    "slug": "eleven4turbo"
+  },
+  {
+    "sample": "I",
+    "model": "fish-audio/drama-3",
+    "name": "Fish Audio Drama 3",
+    "voice": null,
+    "slug": "drama3"
+  },
+  {
+    "sample": "J",
+    "model": "fish-audio/s2.1-pro",
+    "name": "Fish Audio S2.1 Pro",
+    "voice": null,
+    "slug": "fish21"
+  },
+  {
+    "sample": "K",
+    "model": "google/gemini-3.1-flash-tts-preview",
+    "name": "Gemini 3.1 Flash TTS Preview",
+    "voice": "Kore",
+    "slug": "gemini31"
+  }
+]

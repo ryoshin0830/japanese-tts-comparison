@@ -1,0 +1,10 @@
+{
+  "base_currency": "USD",
+  "quote_currency": "JPY",
+  "jpy_per_usd": 156.96,
+  "quoted_at": "2026-10-22T19:35:00+09:00",
+  "source_name": "三井住友銀行 リアルタイム為替レート",
+  "source_url": "https://www2.smbc.co.jp/ex/ExchangeServlet?ScreenID=real",
+  "rate_type": "TTS (円貨→外貨)",
+  "note": "動画上の参考円換算。カード請求時の実際の換算額ではない。"
+}

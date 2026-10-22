@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "total_mib": 83.75,
+  "max_file_mib": 20.78,
+  "readme_relative_links": "passed",
+  "internal_information_scan": "passed",
+  "raw_audio_unchanged": 14,
+  "full_videos_verified": 2,
+  "model_clips_verified": 11,
+  "files_scanned_before_report": 83
+}

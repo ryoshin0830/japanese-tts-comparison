@@ -1,0 +1,86 @@
+{
+  "original": {
+    "input_i": "-15.97",
+    "input_tp": "-1.77",
+    "input_lra": "2.90",
+    "input_thresh": "-26.37",
+    "output_i": "-17.77",
+    "output_tp": "-3.77",
+    "output_lra": "2.60",
+    "output_thresh": "-28.18",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.23"
+  },
+  "normalized": {
+    "input_i": "-15.89",
+    "input_tp": "-1.77",
+    "input_lra": "2.90",
+    "input_thresh": "-26.30",
+    "output_i": "-17.92",
+    "output_tp": "-3.80",
+    "output_lra": "2.90",
+    "output_thresh": "-28.32",
+    "normalization_type": "linear",
+    "target_offset": "-0.08"
+  },
+  "normalized_file": "audio/normalized/fish21.wav",
+  "sha256": "eebbe45cb2ad60cfec2bab6cfa4b0ae0226ed45b69dfca52b9ad2e467550c82d",
+  "probe": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "pcm_s16le",
+        "codec_long_name": "PCM signed 16-bit little-endian",
+        "codec_type": "audio",
+        "codec_tag_string": "[1][0][0][0]",
+        "codec_tag": "0x0001",
+        "sample_fmt": "s16",
+        "sample_rate": "48000",
+        "channels": 1,
+        "bits_per_sample": 16,
+        "initial_padding": 0,
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "duration_ts": 2353529,
+        "duration": "49.031854",
+        "bit_rate": "768000",
+        "disposition": {
+          "default": 0,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        }
+      }
+    ],
+    "format": {
+      "nb_streams": 1,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "wav",
+      "format_long_name": "WAV / WAVE (Waveform Audio)",
+      "duration": "49.031854",
+      "size": "4707136",
+      "bit_rate": "768012",
+      "probe_score": 99,
+      "tags": {
+        "encoder": "Lavf62.12.100"
+      }
+    }
+  }
+}

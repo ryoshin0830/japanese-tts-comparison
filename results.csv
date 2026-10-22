@@ -1,0 +1,12 @@
+﻿start,model,model_id,voice,duration_seconds,response_format,cost_usd,estimated_cost_jpy,jpy_per_usd,elapsed_seconds,status
+00:00:10,Gemini 3.8 Flash TTS,google/gemini-3.8-flash-tts,Kore,54.64,pcm,0.0123835,1.943714160,156.96,17.399,success
+00:01:07,Eleven v4,elevenlabs/eleven-v4,sarah,51.2,mp3,0.02096,3.2898816,156.96,12.12,success
+00:02:01,Eleven v4 Turbo,elevenlabs/eleven-v4-turbo,sarah,50.8,mp3,0.01048,1.6449408,156.96,5.348,success
+00:02:55,Gemini 3.8 Flash-Lite TTS,google/gemini-3.8-flash-lite-tts,Kore,50.24,pcm,0.007625,1.19682000,156.96,10.754,success
+00:03:48,Fish Audio Drama 3,fish-audio/drama-3,provider default (omitted),54.778688,mp3,0.00144,0.2260224,156.96,5.835,success
+00:04:45,Fish Audio S2.1 Pro,fish-audio/s2.1-pro,provider default (omitted),49.03175,mp3,0.0108,1.695168,156.96,17.36,success
+00:05:37,Fish Audio S2 Pro,fish-audio/s2-pro,provider default (omitted),47.6995,mp3,0.0108,1.695168,156.96,16.508,success
+00:06:27,Qwen-Audio 3.0 TTS Plus,qwen/qwen-audio-3.0-tts-plus,longanlingxin,49.416,mp3,0.00754,1.1834784,156.96,11.238,success
+00:07:20,Qwen-Audio 3.0 TTS Flash,qwen/qwen-audio-3.0-tts-flash,loongjohn,57.336,mp3,0.005655,0.88760880,156.96,7.685,success
+00:08:20,Eleven v3,elevenlabs/eleven-v3,sarah,52.24,mp3,0.02096,3.2898816,156.96,17.231,success
+00:09:15,Gemini 3.1 Flash TTS Preview,google/gemini-3.1-flash-tts-preview,Kore,49.0,pcm,0.051564,8.09348544,156.96,21.192,success

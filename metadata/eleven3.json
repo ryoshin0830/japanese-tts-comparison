@@ -1,0 +1,49 @@
+{
+  "slug": "eleven3",
+  "model": "elevenlabs/eleven-v3",
+  "name": "Eleven v3",
+  "voice": "sarah",
+  "voice_note": "catalog voice",
+  "canonical_slug": "elevenlabs/eleven-v3-20260930",
+  "input_sha256": "e15606876237eb88c77b15dc45e3718c3d3c6dbf891bef47f130d46ca3d31f95",
+  "input_characters": 262,
+  "input_utf8_bytes": 720,
+  "payload": {
+    "model": "elevenlabs/eleven-v3",
+    "input": "来月の11月1日から3日間、上総一ノ宮と下総中山を巡ります。集合は午前8時20分、東京都中央区の日本橋です。\n\n老舗の料理店で、出汁の香りを楽しみながら、鰻重と温かい味噌汁をいただきます。生ものが苦手な方は、生姜入りの煮物に変更できます。\n\n昼食代はお一人3,800円、中学生以下は2,500円です。定員は12名、残りは3席。お申し込み後、二十日以内にお支払いください。\n\nなお、降水確率が70％を超えた場合は、午後の散策を中止します。申込期限は10月28日、水曜日の午後5時。詳しくは、旅のしおりの注意事項をご覧ください。",
+    "response_format": "mp3",
+    "voice": "sarah"
+  },
+  "attempts": [
+    {
+      "number": 1,
+      "response_format": "mp3",
+      "started_utc": "2026-10-22T10:01:18.586335+00:00",
+      "first_read_seconds": 16.777,
+      "http_status": 200,
+      "response_headers": {
+        "Content-Type": "audio/mpeg"
+      },
+      "elapsed_seconds": 17.231,
+      "bytes": 836797
+    }
+  ],
+  "status": "success",
+  "audio_file": "audio/raw/eleven3.mp3",
+  "response_audio_sha256": "5f1fbb6078ef12140eca9aee0674e98a1163d2e495b56a8b852c9919a464e5c5",
+  "audio_file_sha256": "5f1fbb6078ef12140eca9aee0674e98a1163d2e495b56a8b852c9919a464e5c5",
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "44100",
+        "channels": 1
+      }
+    ],
+    "format": {
+      "duration": "52.240000"
+    }
+  }
+}

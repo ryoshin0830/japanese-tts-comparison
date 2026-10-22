@@ -1,0 +1,151 @@
+{
+  "currency": "USD",
+  "tts_actual_cost": 0.1602075,
+  "asr_actual_cost": 0.00188605,
+  "total_actual_cost": 0.16209355,
+  "generations": [
+    {
+      "slug": "gemini38",
+      "generations": [
+        {
+          "total_cost": 0.0123835,
+          "usage": 0.0123835,
+          "model": "google/gemini-3.8-flash-tts-20260922",
+          "native_tokens_prompt": 179,
+          "native_tokens_completion": 1366,
+          "latency": 15813
+        }
+      ]
+    },
+    {
+      "slug": "eleven4",
+      "generations": [
+        {
+          "total_cost": 0.02096,
+          "usage": 0.02096,
+          "model": "elevenlabs/eleven-v4-20260930",
+          "native_tokens_prompt": 66,
+          "native_tokens_completion": null,
+          "latency": 11525
+        }
+      ]
+    },
+    {
+      "slug": "eleven4turbo",
+      "generations": [
+        {
+          "total_cost": 0.01048,
+          "usage": 0.01048,
+          "model": "elevenlabs/eleven-v4-turbo-20260930",
+          "native_tokens_prompt": 66,
+          "native_tokens_completion": null,
+          "latency": 4692
+        }
+      ]
+    },
+    {
+      "slug": "gemini38lite",
+      "generations": [
+        {
+          "total_cost": 0.007625,
+          "usage": 0.007625,
+          "model": "google/gemini-3.8-flash-lite-tts-20260922",
+          "native_tokens_prompt": 178,
+          "native_tokens_completion": 1256,
+          "latency": 9742
+        }
+      ]
+    },
+    {
+      "slug": "drama3",
+      "generations": [
+        {
+          "total_cost": 0.00144,
+          "usage": 0.00144,
+          "model": "fish-audio/drama-3-20261013",
+          "native_tokens_prompt": 66,
+          "native_tokens_completion": null,
+          "latency": 137
+        }
+      ]
+    },
+    {
+      "slug": "fish21",
+      "generations": [
+        {
+          "total_cost": 0.0108,
+          "usage": 0.0108,
+          "model": "fish-audio/s2.1-pro-20260729",
+          "native_tokens_prompt": 66,
+          "native_tokens_completion": null,
+          "latency": 295
+        }
+      ]
+    },
+    {
+      "slug": "fish2",
+      "generations": [
+        {
+          "total_cost": 0.0108,
+          "usage": 0.0108,
+          "model": "fish-audio/s2-pro-20260729",
+          "native_tokens_prompt": 66,
+          "native_tokens_completion": null,
+          "latency": 268
+        }
+      ]
+    },
+    {
+      "slug": "qwenplus",
+      "generations": [
+        {
+          "total_cost": 0.00754,
+          "usage": 0.00754,
+          "model": "qwen/qwen-audio-3.0-tts-plus-20260723",
+          "native_tokens_prompt": 66,
+          "native_tokens_completion": null,
+          "latency": 827
+        }
+      ]
+    },
+    {
+      "slug": "qwenflash",
+      "generations": [
+        {
+          "total_cost": 0.005655,
+          "usage": 0.005655,
+          "model": "qwen/qwen-audio-3.0-tts-flash-20260723",
+          "native_tokens_prompt": 66,
+          "native_tokens_completion": null,
+          "latency": 582
+        }
+      ]
+    },
+    {
+      "slug": "eleven3",
+      "generations": [
+        {
+          "total_cost": 0.02096,
+          "usage": 0.02096,
+          "model": "elevenlabs/eleven-v3-20260930",
+          "native_tokens_prompt": 66,
+          "native_tokens_completion": null,
+          "latency": 16572
+        }
+      ]
+    },
+    {
+      "slug": "gemini31",
+      "generations": [
+        {
+          "total_cost": 0.051564,
+          "usage": 0.051564,
+          "model": "google/gemini-3.1-flash-tts-preview",
+          "native_tokens_prompt": 184,
+          "native_tokens_completion": 2569,
+          "latency": 19647
+        }
+      ]
+    }
+  ]
+}

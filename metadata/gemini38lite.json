@@ -1,0 +1,55 @@
+{
+  "slug": "gemini38lite",
+  "model": "google/gemini-3.8-flash-lite-tts",
+  "name": "Gemini 3.8 Flash-Lite TTS",
+  "voice": "Kore",
+  "voice_note": "catalog voice",
+  "canonical_slug": "google/gemini-3.8-flash-lite-tts-20260922",
+  "input_sha256": "e15606876237eb88c77b15dc45e3718c3d3c6dbf891bef47f130d46ca3d31f95",
+  "input_characters": 262,
+  "input_utf8_bytes": 720,
+  "payload": {
+    "model": "google/gemini-3.8-flash-lite-tts",
+    "input": "来月の11月1日から3日間、上総一ノ宮と下総中山を巡ります。集合は午前8時20分、東京都中央区の日本橋です。\n\n老舗の料理店で、出汁の香りを楽しみながら、鰻重と温かい味噌汁をいただきます。生ものが苦手な方は、生姜入りの煮物に変更できます。\n\n昼食代はお一人3,800円、中学生以下は2,500円です。定員は12名、残りは3席。お申し込み後、二十日以内にお支払いください。\n\nなお、降水確率が70％を超えた場合は、午後の散策を中止します。申込期限は10月28日、水曜日の午後5時。詳しくは、旅のしおりの注意事項をご覧ください。",
+    "response_format": "pcm",
+    "voice": "Kore"
+  },
+  "attempts": [
+    {
+      "number": 1,
+      "response_format": "pcm",
+      "started_utc": "2026-10-22T10:00:54.447113+00:00",
+      "first_read_seconds": 10.185,
+      "http_status": 200,
+      "response_headers": {
+        "Content-Type": "audio/pcm;rate=24000;channels=1"
+      },
+      "elapsed_seconds": 10.754,
+      "bytes": 2411520
+    }
+  ],
+  "status": "success",
+  "raw_file": "audio/raw/gemini38lite.pcm",
+  "pcm_format": {
+    "sample_rate": 24000,
+    "channels": 1,
+    "sample_width": 2
+  },
+  "audio_file": "audio/raw/gemini38lite.wav",
+  "response_audio_sha256": "7f93c7c2ef48db47633613e269349c1a6cab5c649998d42140f5554dbf9778e7",
+  "audio_file_sha256": "429da837561dac5b4615eabcf2afb2976da2cdf1de4c4cc109300258c79a6517",
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "pcm_s16le",
+        "sample_rate": "24000",
+        "channels": 1
+      }
+    ],
+    "format": {
+      "duration": "50.240000"
+    }
+  }
+}

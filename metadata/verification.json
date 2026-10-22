@@ -1,0 +1,443 @@
+{
+  "status": "passed",
+  "model_count": 11,
+  "same_input_for_all_models": true,
+  "audio": [
+    {
+      "slug": "gemini38",
+      "duration_seconds": 54.64,
+      "normalized_lufs": -18.01,
+      "normalized_true_peak_dbtp": -3.02,
+      "decode": "passed",
+      "same_script": true
+    },
+    {
+      "slug": "eleven4",
+      "duration_seconds": 51.2,
+      "normalized_lufs": -18.03,
+      "normalized_true_peak_dbtp": -1.5,
+      "decode": "passed",
+      "same_script": true
+    },
+    {
+      "slug": "eleven4turbo",
+      "duration_seconds": 50.8,
+      "normalized_lufs": -18.03,
+      "normalized_true_peak_dbtp": -1.5,
+      "decode": "passed",
+      "same_script": true
+    },
+    {
+      "slug": "gemini38lite",
+      "duration_seconds": 50.24,
+      "normalized_lufs": -18.03,
+      "normalized_true_peak_dbtp": -1.5,
+      "decode": "passed",
+      "same_script": true
+    },
+    {
+      "slug": "drama3",
+      "duration_seconds": 54.778688,
+      "normalized_lufs": -17.96,
+      "normalized_true_peak_dbtp": -1.5,
+      "decode": "passed",
+      "same_script": true
+    },
+    {
+      "slug": "fish21",
+      "duration_seconds": 49.03175,
+      "normalized_lufs": -18.0,
+      "normalized_true_peak_dbtp": -3.8,
+      "decode": "passed",
+      "same_script": true
+    },
+    {
+      "slug": "fish2",
+      "duration_seconds": 47.6995,
+      "normalized_lufs": -17.98,
+      "normalized_true_peak_dbtp": -1.5,
+      "decode": "passed",
+      "same_script": true
+    },
+    {
+      "slug": "qwenplus",
+      "duration_seconds": 49.416,
+      "normalized_lufs": -17.95,
+      "normalized_true_peak_dbtp": -1.5,
+      "decode": "passed",
+      "same_script": true
+    },
+    {
+      "slug": "qwenflash",
+      "duration_seconds": 57.336,
+      "normalized_lufs": -18.0,
+      "normalized_true_peak_dbtp": -1.5,
+      "decode": "passed",
+      "same_script": true
+    },
+    {
+      "slug": "eleven3",
+      "duration_seconds": 52.24,
+      "normalized_lufs": -18.01,
+      "normalized_true_peak_dbtp": -4.48,
+      "decode": "passed",
+      "same_script": true
+    },
+    {
+      "slug": "gemini31",
+      "duration_seconds": 49.0,
+      "normalized_lufs": -18.0,
+      "normalized_true_peak_dbtp": -2.6,
+      "decode": "passed",
+      "same_script": true
+    }
+  ],
+  "videos": [
+    {
+      "mode": "labeled",
+      "file": "video/japanese-tts-labeled.mp4",
+      "duration_seconds": 617.231667,
+      "bytes": 21794353,
+      "sha256": "a6b8adfb8c5abb021d562dd06e824a0ab86011c0c0e642f4593b4c447f0bcd69",
+      "complete_decode": "passed",
+      "resolution": "1920x1080",
+      "overlays": [
+        {
+          "slug": "gemini38",
+          "billing_and_timing_match": true,
+          "video_overlay_matches_card": true,
+          "pixel_mean_error": [
+            1.3480510972813626,
+            1.0276940714051752,
+            3.313969865705863
+          ]
+        },
+        {
+          "slug": "eleven4",
+          "billing_and_timing_match": true,
+          "video_overlay_matches_card": true,
+          "pixel_mean_error": [
+            1.3927939731411727,
+            1.0556010481493612,
+            3.393219783819194
+          ]
+        },
+        {
+          "slug": "eleven4turbo",
+          "billing_and_timing_match": true,
+          "video_overlay_matches_card": true,
+          "pixel_mean_error": [
+            1.3661480510972814,
+            1.025237471339666,
+            3.347690795938421
+          ]
+        },
+        {
+          "slug": "gemini38lite",
+          "billing_and_timing_match": true,
+          "video_overlay_matches_card": true,
+          "pixel_mean_error": [
+            1.3772518833933836,
+            1.0732558139534885,
+            3.3948247625286605
+          ]
+        },
+        {
+          "slug": "drama3",
+          "billing_and_timing_match": true,
+          "video_overlay_matches_card": true,
+          "pixel_mean_error": [
+            1.380510972813626,
+            1.057631837536849,
+            3.3774320340648543
+          ]
+        },
+        {
+          "slug": "fish21",
+          "billing_and_timing_match": true,
+          "video_overlay_matches_card": true,
+          "pixel_mean_error": [
+            1.3595643629217165,
+            1.0412217490992466,
+            3.3614150016377335
+          ]
+        },
+        {
+          "slug": "fish2",
+          "billing_and_timing_match": true,
+          "video_overlay_matches_card": true,
+          "pixel_mean_error": [
+            1.3499508679986898,
+            1.0306747461513266,
+            3.3382738290206353
+          ]
+        },
+        {
+          "slug": "qwenplus",
+          "billing_and_timing_match": true,
+          "video_overlay_matches_card": true,
+          "pixel_mean_error": [
+            1.3401572224041927,
+            1.0067638388470357,
+            3.2993121519816575
+          ]
+        },
+        {
+          "slug": "qwenflash",
+          "billing_and_timing_match": true,
+          "video_overlay_matches_card": true,
+          "pixel_mean_error": [
+            1.3658696364231904,
+            1.076826072715362,
+            3.408991156239764
+          ]
+        },
+        {
+          "slug": "eleven3",
+          "billing_and_timing_match": true,
+          "video_overlay_matches_card": true,
+          "pixel_mean_error": [
+            1.3935964624959056,
+            1.0632820176875204,
+            3.410792662954471
+          ]
+        },
+        {
+          "slug": "gemini31",
+          "billing_and_timing_match": true,
+          "video_overlay_matches_card": true,
+          "pixel_mean_error": [
+            1.3883229610219456,
+            1.0523092040615787,
+            3.401932525384867
+          ]
+        }
+      ]
+    },
+    {
+      "mode": "blind",
+      "file": "video/japanese-tts-blind.mp4",
+      "duration_seconds": 617.231667,
+      "bytes": 21777810,
+      "sha256": "8e1fd8539ab7b69ad3f963e27cd028fb9df3c5366d25a1ba5591844bc133115a",
+      "complete_decode": "passed",
+      "resolution": "1920x1080",
+      "overlays": [
+        {
+          "slug": "gemini38lite",
+          "billing_and_timing_match": true,
+          "video_overlay_matches_card": true,
+          "pixel_mean_error": [
+            1.3773992793973142,
+            1.0731739272846381,
+            3.3932361611529642
+          ]
+        },
+        {
+          "slug": "qwenplus",
+          "billing_and_timing_match": true,
+          "video_overlay_matches_card": true,
+          "pixel_mean_error": [
+            1.3385031116934163,
+            1.0032918440877825,
+            3.286013756960367
+          ]
+        },
+        {
+          "slug": "fish2",
+          "billing_and_timing_match": true,
+          "video_overlay_matches_card": true,
+          "pixel_mean_error": [
+            1.3388634130363577,
+            1.017900425810678,
+            3.3191287258434325
+          ]
+        },
+        {
+          "slug": "qwenflash",
+          "billing_and_timing_match": true,
+          "video_overlay_matches_card": true,
+          "pixel_mean_error": [
+            1.3670488044546347,
+            1.0745987553226335,
+            3.406518178840485
+          ]
+        },
+        {
+          "slug": "eleven3",
+          "billing_and_timing_match": true,
+          "video_overlay_matches_card": true,
+          "pixel_mean_error": [
+            1.3935964624959056,
+            1.0632820176875204,
+            3.410792662954471
+          ]
+        },
+        {
+          "slug": "eleven4",
+          "billing_and_timing_match": true,
+          "video_overlay_matches_card": true,
+          "pixel_mean_error": [
+            1.3927939731411727,
+            1.0556010481493612,
+            3.393219783819194
+          ]
+        },
+        {
+          "slug": "gemini38",
+          "billing_and_timing_match": true,
+          "video_overlay_matches_card": true,
+          "pixel_mean_error": [
+            1.3480510972813626,
+            1.0263511300360302,
+            3.307058630854897
+          ]
+        },
+        {
+          "slug": "eleven4turbo",
+          "billing_and_timing_match": true,
+          "video_overlay_matches_card": true,
+          "pixel_mean_error": [
+            1.3661480510972814,
+            1.025237471339666,
+            3.347690795938421
+          ]
+        },
+        {
+          "slug": "drama3",
+          "billing_and_timing_match": true,
+          "video_overlay_matches_card": true,
+          "pixel_mean_error": [
+            1.372633475270226,
+            1.0492466426465772,
+            3.3576973468719293
+          ]
+        },
+        {
+          "slug": "fish21",
+          "billing_and_timing_match": true,
+          "video_overlay_matches_card": true,
+          "pixel_mean_error": [
+            1.3484769079593841,
+            1.028447428758598,
+            3.342269898460531
+          ]
+        },
+        {
+          "slug": "gemini31",
+          "billing_and_timing_match": true,
+          "video_overlay_matches_card": true,
+          "pixel_mean_error": [
+            1.3884703570258763,
+            1.0512610547002947,
+            3.3969865705863085
+          ]
+        }
+      ]
+    }
+  ],
+  "model_clips": [
+    {
+      "slug": "gemini38",
+      "file": "video/models/gemini38.mp4",
+      "bytes": 2123819,
+      "sha256": "e3944fef730e054c5e6d3af46ebed546bd16eeece3096485933b86179b83faeb",
+      "complete_decode": "passed",
+      "matches_labeled_segment": true
+    },
+    {
+      "slug": "eleven4",
+      "file": "video/models/eleven4.mp4",
+      "bytes": 2029739,
+      "sha256": "6fed01bd2c92fbac0b85ec7de6c70cb6699f84a10c5cc70327aea22d719c8896",
+      "complete_decode": "passed",
+      "matches_labeled_segment": true
+    },
+    {
+      "slug": "eleven4turbo",
+      "file": "video/models/eleven4turbo.mp4",
+      "bytes": 2028606,
+      "sha256": "e2ad59805c54be71e25bde9f03f487c8447fac5eded77cb7d05eddba921f0120",
+      "complete_decode": "passed",
+      "matches_labeled_segment": true
+    },
+    {
+      "slug": "gemini38lite",
+      "file": "video/models/gemini38lite.mp4",
+      "bytes": 2028973,
+      "sha256": "681a23286cb8c724990eee74cf10d52fc667c11de5e1c2055ddd8e722dd8577b",
+      "complete_decode": "passed",
+      "matches_labeled_segment": true
+    },
+    {
+      "slug": "drama3",
+      "file": "video/models/drama3.mp4",
+      "bytes": 2091494,
+      "sha256": "6868b511e8f5446fa267bc7300ed30062ac7f17233e4100efc5948ad5f31827e",
+      "complete_decode": "passed",
+      "matches_labeled_segment": true
+    },
+    {
+      "slug": "fish21",
+      "file": "video/models/fish21.mp4",
+      "bytes": 1790384,
+      "sha256": "e4c87399f8ba77140467a2c409958d1ddf30373be89faa7b092afe8ea87bdae7",
+      "complete_decode": "passed",
+      "matches_labeled_segment": true
+    },
+    {
+      "slug": "fish2",
+      "file": "video/models/fish2.mp4",
+      "bytes": 1750372,
+      "sha256": "83fa4fde8ff5e6a6e008c1ec8c8a46f0e82fa8e9ea702d2c1221b765084fcf39",
+      "complete_decode": "passed",
+      "matches_labeled_segment": true
+    },
+    {
+      "slug": "qwenplus",
+      "file": "video/models/qwenplus.mp4",
+      "bytes": 1863386,
+      "sha256": "5e2d1864d8cebda7b67b0eb7c4ebecd8947402c02536fde8f6874a2232f1645f",
+      "complete_decode": "passed",
+      "matches_labeled_segment": true
+    },
+    {
+      "slug": "qwenflash",
+      "file": "video/models/qwenflash.mp4",
+      "bytes": 2115156,
+      "sha256": "65f1f9a7a2ab7e1601bdb7ad39a44384e974f3fcc5b30a95573107093f5fbce7",
+      "complete_decode": "passed",
+      "matches_labeled_segment": true
+    },
+    {
+      "slug": "eleven3",
+      "file": "video/models/eleven3.mp4",
+      "bytes": 2037107,
+      "sha256": "5a12b610ba05a3e1bca5ff04b36fc76c778eba94135cec9c06284c702db524ab",
+      "complete_decode": "passed",
+      "matches_labeled_segment": true
+    },
+    {
+      "slug": "gemini31",
+      "file": "video/models/gemini31.mp4",
+      "bytes": 1797968,
+      "sha256": "171e228ea55351f03770d1ccb7061f011e42a6106c2c363bdf1216db90b912b3",
+      "complete_decode": "passed",
+      "matches_labeled_segment": true
+    }
+  ],
+  "exchange_rate": {
+    "base_currency": "USD",
+    "quote_currency": "JPY",
+    "jpy_per_usd": 156.96,
+    "quoted_at": "2026-10-22T19:35:00+09:00",
+    "source_name": "三井住友銀行 リアルタイム為替レート",
+    "source_url": "https://www2.smbc.co.jp/ex/ExchangeServlet?ScreenID=real",
+    "rate_type": "TTS (円貨→外貨)",
+    "note": "動画上の参考円換算。カード請求時の実際の換算額ではない。"
+  },
+  "secret_scan": {
+    "files_scanned": 54,
+    "credential_patterns_found": false
+  }
+}
